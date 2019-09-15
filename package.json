@@ -1,0 +1,22 @@
+{
+  "name": "react-my-cli",
+  "version": "1.0.0",
+  "description": "it's a react-cli for myself",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/littleFFF/react-my-cli.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "daodao_wyt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/littleFFF/react-my-cli/issues"
+  },
+  "homepage": "https://github.com/littleFFF/react-my-cli#readme"
+}
