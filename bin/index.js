@@ -14,7 +14,8 @@ program
       const spinner = ora('正在搭建react项目...');
       spinner.start();
       download(
-        'https://github.com:Vibing/react-cli#template',
+        // 'https://github.com:Vibing/react-cli#template',
+        'https://github.com/DaodaoW/react-app#template',
         name,
         { clone: true },
         err => {
