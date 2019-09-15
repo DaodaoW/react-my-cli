@@ -3,20 +3,34 @@
   "version": "1.0.0",
   "description": "it's a react-cli for myself",
   "main": "index.js",
+  "bin": {
+    "react-my-cli": "./bin/index.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.16.0",
+    "download-git-repo": "^1.0.2",
+    "handlebars": "^4.0.11",
+    "inquirer": "^6.0.0",
+    "log-symbols": "^2.2.0",
+    "ora": "^2.1.0"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/littleFFF/react-my-cli.git"
+    "url": "git+https://github.com/DaodaoW/react-my-cli.git"
   },
   "keywords": [
-    "react"
+    "react",
+    "react-cli"
   ],
   "author": "daodao_wyt",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/littleFFF/react-my-cli/issues"
+    "url": "https://github.com/DaodaoW/react-my-cli/issues"
   },
-  "homepage": "https://github.com/littleFFF/react-my-cli#readme"
+  "homepage": "https://github.com/DaodaoW/react-my-cli#readme"
 }
