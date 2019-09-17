@@ -1,8 +1,7 @@
 {
   "name": "react-my-cli",
-  "version": "1.0.0",
+  "version": "1.0.13",
   "description": "it's a react-cli for myself",
-  "main": "index.js",
   "bin": {
     "react-my-cli": "./bin/index.js"
   },
